@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+python-multipart
+passlib
+bcrypt==4.0.1
+PyJWT
+email-validator
